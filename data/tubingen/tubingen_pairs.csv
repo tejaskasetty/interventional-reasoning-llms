@@ -1,0 +1,49 @@
+var_1,var_2
+Altitude,Temperature
+Altitude,Precipitation
+Longitude,Temperature
+Latitude,Temperature
+Age,Length
+Age,Weight
+Age,Diameter
+Age,Height
+Age,Heart rate
+Age,Wage
+Alcohol consumption,Liver disorders
+Displacement,Fuel consumption
+Horsepower,Fuel consumption
+Height,Fuel consumption
+Horsepower,Acceleration
+Longitude,Precipitation
+Cement,Compressive strength of concrete
+Blast furnace slag,Compressive strength of concrete
+Fly ash,Compressive strength of concrete
+Water,Compressive strength of concrete
+Coarse aggregate,Compressive strength of concrete
+Fine aggregate,Compressive strength of concrete
+Age,Compressive strength of concrete
+Super-plasticizer,Compressive strength of concrete
+Sea level,Pressure
+Outdoor temperature,Indoor temperature
+Temperature,Ozone concentration
+Temperature,Local CO2 flux
+Radiation,Ozone concentration
+Latitude,Female life expectancy
+Latitude,Male life expectancy
+Drinking water access,Infant mortality
+Parameter,Answer
+Energy usage,CO2 emissions
+Solar radiation,Temperature
+Population,Employment
+Precipitation,Runoff
+Hour of day,Temperature
+Hour of day,Electricity load
+Temperature,Electricity load
+Cycle time of CPU,Performance
+Grey value of pixel,Brightness of the screen
+Social-economic status family,Language test score
+Time of measurement,Protein content of milk
+Population growth,Food consumption growth
+Open http connections,Bytes sent
+Clay content in soil,Soil moisture
+Organic carbon in soil,Clay content in soil

@@ -1,0 +1,17 @@
+var_1,var_2,var_3,val_1,val_2,val_3
+Altitude,Temperature,Ozone concentration,100m,20 C,13%
+Altitude,Temperature,Local CO2 flux,1000m,10 C,10 ppm
+Altitude,Temperature,Electricity load,1000m,10 C,100 kWh
+Altitude,Precipitation,Runoff,1 km,10 cm,0.35
+Longitude,Precipitation,Runoff,50 deg E,10 cm,0.35
+Latitude,Precipitation,Runoff,50 deg,10 cm,0.40
+Longitude,Temperature,Ozone concentration,50 deg E,30 C,10 ppb
+Longitude,Temperature,Local CO2 flux,50 deg E,30 C,20 ppm
+Longitude,Temperature,Electricity load,50 deg E,30 C,400 kWh
+Solar radiation,Temperature,Electricity load,10 rad,20 C,100 kWh
+Solar radiation,Temperature,Local CO2 flux,10 rad,20 C,20 ppm
+Solar radiation,Temperature,Ozone concentration,0.1 rad,20 C,10 ppb
+Hour of day,Temperature,Electricity load,10,30 C,300 kWh
+Hour of day,Temperature,Local CO2 flux,6,30 C,20 ppm
+Hour of day,Temperature,Ozone concentration,8,30 C, 10 ppb
+Organic carbon in soil,Clay content in soil,Soil moisture,10 ppm,30%,0.3 wfv

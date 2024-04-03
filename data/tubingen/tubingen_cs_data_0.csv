@@ -1,0 +1,50 @@
+var_1,var_2,val_1, val_2
+Age,Shell weight,20,3kg
+Altitude,Temperature,1 km,10 C
+Altitude,Precipitation,2 km,10 cm
+Longitude,Temperature,20 E,30 C
+Latitude,Temperature,50 W,30 C
+Age,Length,20,150cm
+Age,Weight,20,70kg
+Age,Diameter,20,4m
+Age,Height,20,170cm
+Age,Heart rate,20,120bpm
+Age,Wage,20,$100000
+Alcohol consumption,Liver disorders,2 L,positive
+Displacement,Fuel consumption,1 km,2 L
+Horsepower,Fuel consumption,400 hp,2 L
+Height,Fuel consumption,100m,2 L
+Horsepower,Acceleration,400 hp,100
+Longitude,Precipitation,30 E,10 cm
+Cement,Compressive strength of concrete,20 %,30 MPa
+Blast furnace slag,Compressive strength of concrete,30 %,30 MPa
+Fly ash,Compressive strength of concrete,20 %,30 MPa
+Water,Compressive strength of concrete,2 L,30MPa
+Coarse aggregate,Compressive strength of concrete,10 %,30 MPa
+Fine aggregate,Compressive strength of concrete,30 %,30 MPa
+Age,Compressive strength of concrete,20,30 MPa
+Super-plasticizer,Compressive strength of concrete,10,30 MPa
+Sea level,Pressure,5 km,300psi
+Outdoor temperature,Indoor temperature,20 C,25 C
+Temperature,Ozone concentration,20 C,10 ppb
+Temperature,Local CO2 flux,20 C,10 ppm
+Radiation,Ozone concentration,1 rad,10 ppb
+Latitude,Female life expectancy,40 degree S,80
+Latitude,Male life expectancy,40 degree N,80
+Drinking water access,Infant mortality,1 cubic tonne,10
+Parameter,Answer,hard,True
+Energy usage,CO2 emissions,100 kwh,10 kt
+Solar radiation,Temperature,2 rad,20 C
+Population,Employment,1 million,70%
+Precipitation,Runoff,10 mm,0.35
+Hour of day,Temperature,12,30 C
+Hour of day,Electricity load,12,400 kWh
+Temperature,Electricity load,20 C,400 kWh
+Cycle time of CPU,Performance,3 GHz,high
+Grey value of pixel,Brightness of the screen,128,400 nits
+Social-economic status family,Language test score,rich,119
+Time of measurement,Protein content of milk,12h,3.5g
+Population growth,Food consumption growth,10%,40
+Open http connections,Bytes sent,2,2048 bites
+Clay content in soil,Soil moisture,10%,0.3 wfv
+Organic carbon in soil,Clay content in soil,100 ppm,30%

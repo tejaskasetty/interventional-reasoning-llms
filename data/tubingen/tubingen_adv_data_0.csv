@@ -1,0 +1,50 @@
+var_1,var_2,val_1,val_2
+Shell weight,Age,3 kg,20
+Temperature,Altitude,10 C,1 km
+Precipitation,Altitude,10 cm,2 km
+Temperature,Longitude,30 C,20 E
+Temperature,Latitude,30 C,50 W
+Length,Age,150cm,20
+Weight,Age,70kg,20
+Diameter,Age,4m,20
+Height,Age,170cm,20
+Heart rate,Age,120bpm,20
+Wage,Age,$100000,20
+Liver disorders,Alcohol consumption,positive,2 L
+Fuel consumption,Displacement,2 L,1 km
+Fuel consumption,Horsepower,2 L,400 hp
+Fuel consumption,Height,2 L,100m
+Acceleration,Horsepower,100,400 hp
+Precipitation,Longitude,10 cm,30 E
+Compressive strength of concrete,Cement,30 MPa,20 %
+Compressive strength of concrete,Blast furnace slag,30 MPa,30 %
+Compressive strength of concrete,Fly ash,30 MPa,20 %
+Compressive strength of concrete,Water,30MPa,2 L
+Compressive strength of concrete,Coarse aggregate,30 MPa,10 %
+Compressive strength of concrete,Fine aggregate,30 MPa,30 %
+Compressive strength of concrete,Age,30 MPa,20
+Compressive strength of concrete,Super-plasticizer,30 MPa,10
+Pressure,Sea level,300psi,5 km
+Indoor temperature,Outdoor temperature,25 C,20 C
+Ozone concentration,Temperature,10 ppb,20 C
+Local CO2 flux,Temperature,10 ppm,20 C
+Ozone concentration,Radiation,10 ppb,1 rad
+Female life expectancy,Latitude,80,40 degree S
+Male life expectancy,Latitude,80,40 degree N
+Infant mortality,Drinking water access,10,1 cubic tonne
+Answer,Parameter,True,hard
+CO2 emissions,Energy usage,10 kt,100 kwh
+Temperature,Solar radiation,20 C,2 rad
+Employment,Population,70%,1 million
+Runoff,Precipitation,0.35,10 mm
+Temperature,Hour of day,30 C,12
+Electricity load,Hour of day,400 kWh,12
+Electricity load,Temperature,400 kWh,20 C
+Performance,Cycle time of CPU,high,3 GHz
+Brightness of the screen,Grey value of pixel,400 nits,128
+Language test score,Social-economic status family,119,rich
+Protein content of milk,Time of measurement,3.5g,12h
+Food consumption growth,Population growth,40,10%
+Bytes sent,Open http connections,2048 bites,2
+Soil moisture,Clay content in soil,0.3 wfv,10%
+Clay content in soil,Organic carbon in soil,30%,100 ppm

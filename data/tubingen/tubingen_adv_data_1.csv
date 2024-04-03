@@ -1,0 +1,50 @@
+var_1,var_2,var_3,val_1,val_2,val_3
+Temperature,Age,Shell weight,21 C,20,2 kg
+Population,Altitude,Temperature,1 million,1 km,10 C
+Population,Altitude,Precipitation,2 million,2 km,10 cm
+Age,Longitude,Temperature,30,20 E,30 C
+Age,Latitude,Temperature,10,50 W,30 C
+Temperature,Age,Length,30 C,20,150cm
+Displacement,Age,Weight,100 km,20,70kg
+Alochol consumption,Age,Diameter,2 L,20,4m
+Radiation,Age,Height,1 rad,20,170cm
+Sea level,Age,Heart rate,2 km,20,120bpm
+Temeprature,Age,Wage,22 C,20,$100000
+Age,Alcohol consumption,Liver disorders,24,2 L,positive
+Age,Displacement,Fuel consumption,30,1 km,2 L
+Age,Horsepower,Fuel consumption,20,400 hp,2 L
+Sea Level,Height,Fuel consumption,1 km,100m,2 L
+Longitude,Horsepower,Acceleration,20 W,400 hp,100
+Altitude,Longitude,Precipitation,2 km,30 E,10 cm
+Temperature,Cement,Compressive strength of concrete,30 C,20 %,30 MPa
+Energy usage,Blast furnace slag,Compressive strength of concrete,10 kWh,30 %,30 MPa
+Radiation,Fly ash,Compressive strength of concrete,2 rad,20 %,30 MPa
+Temperature,Water,Compressive strength of concrete,20 C,100 L,30MPa
+Hour of the day,Coarse aggregate,Compressive strength of concrete,12,10 %,30 MPa
+Clay content in soil,Fine aggregate,Compressive strength of concrete,10%,30 %,30 MPa
+Energy usage,Age,Compressive strength of concrete,100 kWh,20,30 MPa
+Organic Carbon in soil,Super-plasticizer,Compressive strength of concrete,100 ppm,10,30 MPa
+Latitude,Sea level,Pressure,40 degree N,5 km,300psi
+Altitude,Outdoor temperature,Indoor temperature,1 km,20 C,25 C
+Longitude,Temperature,Ozone concentration,30 E,20 C,10 ppb
+Radiation,Temperature,Local CO2 flux,1 rad,20 C,10 ppm
+Sea level,Radiation,Ozone concentratio,1 km,1 rad,10 ppb
+Population Growth,Latitude,Female life expectancy,20%,40 degree S,80
+Population Growth,Latitude,Male life expectancy,10%,40 degree N,80
+Lattiude,Drinking water access,Infant mortality,40 degree S,1 cubic tonne,10
+Topic,Parameter,Answer,math,hard,True
+Temperature,Energy usage,CO2 emissions,10 C,100 kwh,10 kt
+Altitude,Solar radiation,Temperature,2 km,2 rad,20 C
+Age,Population,Employment,200,1 million,70%
+Clay content in soil,Precipitation,Runoff,10%,10 mm,0.35
+Season,Hour of day,Temperature,Winter,12,30 C
+Season,Hour of day,Electricity load,Summer,12,400 kWh
+Altitude,Temperature,Electricity load,900 m,20 C,400 kWh
+Temperature,Cycle time of CPU,Performance,10 C,3 GHz,99 %
+Screen technology,Grey value of pixel,Brightness of the screen,OLED,128,400 nits
+Population,Social-economic status family,Language test score,1 million,rich,119
+Season,Time of measurement,Protein content of milk,winter,12h,3.5g
+GDP,Population growth,Food consumption growth,$10000/person,10%,40
+Bandwidth,Open http connections,Bytes sent,1 Mb,2,2048 bites
+Water,Clay content in soil,Soil moisture,2 L,10%,0.3 wfv
+Water,Organic carbon in soil,Clay content in soil,3 L,100 ppm,30%

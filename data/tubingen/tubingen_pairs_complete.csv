@@ -1,0 +1,109 @@
+varA,varB
+altitude,temperature
+altitude,precipitation
+longitude,temperature
+altitude,sunshine hours
+age,length
+age,shell weight
+age,diameter
+age,height
+age,whole weight
+age,shucked weight
+age,viscera weight
+age,wage per hour
+displacement,fuel consumption
+horse power,fuel consumption
+weight,fuel consumption
+horsepower,acceleration
+age,dividends from stocks
+age,concentration GAG
+current duration,next interval
+latitude,temperature
+longitude,precipitation
+age,heightx
+age,weight
+age,heart rate
+cement,compressive strength
+blast furnace slag,compressive strength
+fly ash,compressive strength
+water,compressive strength
+superplasticizer,compressive strength
+Coarse aggregate,compressive strength
+fine aggregate,compressive strength
+age,compressive strength
+alcohol consumption,mean corpuscular volume
+alcohol consumption,alkaline phosphotase
+alcohol consumption,alanine aminotransferase
+alcohol consumption,aspartate aminotransferase
+alcohol consumption,gamma-glutamyl transpeptdase
+age,body mass index
+age,serum insulin
+age,diastolic blood pressure
+age,plasma glucose concentration
+day of the year,temperature
+temperature at t,temperature at t+1
+pressure at t,pressure at t+1
+sea level pressure at t,sea level pressure at t+1
+relative humidity at t,relative humidity at t+1
+type of day,number of cars
+outdoor temperature,indoor temperature
+temperature,"ozone concentration (Lausanne-Cesar-Roux, Switzerland)"
+temperature,"ozone concentration (Chaumont, Switzerland)"
+temperature,"ozone concentration (Davos-See, Switzerland)"
+"(Temp, Press, Slp, Rh)","(Temp, Press, SLP, Rh)"
+"(Wind speed, Radiation, Temperature)",ozone concentration
+"(Displacement, Horsepower, Weight)","(Fuel consumption,Acceleration)"
+radiation (16-dim.),ozone concentration (16-dim.)
+latitude,"female life expectancy, 2000-2005"
+latitude,"female life expectancy, 1995-2000"
+latitude,"female life expectancy, 1990-1995"
+latitude,"female life expectancy, 1985-1990"
+latitude,"male life expectancy, 2000-2005"
+latitude,"male life expectancy, 1995-2000"
+latitude,"male life expectancy, 1990-1995"
+latitude,"male life expectancy, 1985-1990"
+drinking water access,infant mortality
+stock return of Hang Seng Bank,stock return of HSBC Hldgs
+stock return of Hutchison,stock return of Cheung kong
+stock return of Cheung kong ,stock return of Sun Hung Kai Prop.
+open http connections,bytes sent
+outside temperature,inside temperature
+parameter,answer
+symptoms (6-dim.),classification of disease (2-dim.)
+sunspots,global mean temperature
+energy use,CO2 emissions
+GNI per capita,life expectancy
+GNI per capita,under-5 mortality rate
+population growth,food consumption growth
+solar radiation,temperature
+PPFD,Net Ecosystem Productivity
+diffuse PPFDdif,Net Ecosystem Productivity
+direct PPFDdir,Net Ecosystem Productivity
+temperature ,"local CO2 flux, BE-Bra"
+temperature ,"local CO2 flux, DE-Har"
+temperature ,"local CO2 flux, US-PFa"
+employment,population
+time of measurement,protein content of milk
+size of apartment,monthly rent
+temperature,total snow
+age,relative spinal bone mineral density
+mass loss April (grassl),mass loss Oct (grassl)
+mass loss April (forest),mass loss Oct (forest)
+clay cont. in soil (forest),soil moisture
+clay cont. in soil (forest),organic carbon in soil (forest)
+precipitation,runoff
+hour of day,temperature
+hour of day,electricity load
+temperature,electricity load
+speed at the beginning, speed at the end
+speed at the beginning (acceleration zone),speed at the end
+social-economic status family,language test score
+cycle time of CPU,performance
+grey value of a pixel,brightness of the screen
+position of a ball,time for passing a track segment
+position of a ball,time for passing a track segment
+time for passing 1. segment,time for passing 2. segment
+pixel vector of a patch,total brightness at the screen
+voltage,time required for one round
+strength of contrast,answer correct or not
+temperature,time for 1/6 rotation

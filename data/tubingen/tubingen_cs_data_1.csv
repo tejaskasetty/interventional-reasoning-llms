@@ -1,0 +1,50 @@
+var_1, var_2, var_3, val_1, val_2, val_3
+Age,Shell weight,Length,21,7 kg,150cm
+Age,Shell weight,Weight,22,7 kg,70 kg
+Age,Shell weight,Diameter,30,3 kg,90cm
+Age,Shell weight,Height,40,2 kg,170cm
+Age,Shell weight,Heart rate,50,4 kg,120bpm
+Age,Shell weight,Wage,50,4 kg,$100000
+Age,Length,Weight,22,180cm,80 kg
+Age,Length,Diameter,32,165cm,90cm
+Age,Length,Height,44,150cm,170cm
+Age,Length,Heart rate,35,165,130bpm
+Age,Length,Wage,36,150,$50000
+Age,Weight,Diameter,33,65 kg,90cm
+Age,Weight,Height,45,80 kg,181cm
+Age,Weight,Heart rate,21,70 kg,110bpm
+Age,Weight,Wage,19,65 kg,$1000
+Age,Diameter,Height,20,85cm,180cm
+Age,Diameter,Heart rate,25,100cm,140bpm
+Age,Diameter,Wage,80,95cm,$40000
+Age,Height,Heart rate,65,170cm,120bpm
+Age,Height,Wage,26,160cm,$100000
+Age,Heart rate,Wage,32,120bpm,$120000
+Altitude,Temperature,Precipitation,400 m,15 C,10 cm
+Longitude,Temperature,Precipitation,20 E,30 C,2 cm
+Latitude,Temperature,Female life expectancy,40 degree S,30 C,85
+Latitude,Temperature,Male life expectancy,10 degree N,30 C,80
+Latitude,Female life expectancy,Male life expectancy,20 degree N,90,80
+Alcohol consumption,Liver disorders,Stamina,2 L,high,low
+Outdoor temperature,Indoor temperature,Ozone concentration,20 C,25 C,10 ppb
+Outdoor temperature,Indoor temperature,Local CO2 flux,20 C,25 C,10 ppm
+Outdoor temperature,Indoor temperature,Electricity load,20 C,25 C,400 kWh
+Temperature,Ozone concentration,Local CO2 flux,20 C,10 ppb,20 ppm
+Temperature,Ozone concentration,Electricity load,20 C,10 ppb,400 kWh
+Temperature,Local CO2 flux,Electricity load,20 C,10 ppm,400 kWh
+Displacement,Fuel consumption,Tire degradation,100 km,7 L,3%
+Horsepower,Fuel consumption,Acceleration,400 hp,2 L,10m/s
+Height,Fuel consumption,Oxygen,1000m,4 L,14%
+Cement,Compressive strength of concrete,Heat absorption,20 %,30 MPa,90%
+Blast furnace slag,Compressive strength of concrete,Heat absorption,30 %,30 MPa,70%
+Fly ash,Compressive strength of concrete,Heat absorption,20 %,30 MPa,60%
+Water,Compressive strength of concrete,Heat absorption,2 L,30MPa,70%
+Coarse aggregate,Compressive strength of concrete,Heat absorption,10 %,30 MPa,80%
+Fine aggregate,Compressive strength of concrete,Heat absorption,30 %,30 MPa,90%
+Age,Compressive strength of concrete,Heat absorption,20,30 MPa,60%
+Super-plasticizer,Compressive strength of concrete,10,Heat absorption,30 MPa,70%
+Radiation,Ozone concentration,Temperature,1 rad,10 ppb,10 C
+Drinking water access,Infant mortality,Male life expectancy,1 cubic tonne,10,70
+Drinking water access,Infant mortality,Female life expectancy,1 cubic tonne,10,80
+Population,Employment,Food consumption growth,1 million,70%,40
+Hour of day,Temperature,Electricity load,12,30 C,400 kWh

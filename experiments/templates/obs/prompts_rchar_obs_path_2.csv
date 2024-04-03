@@ -1,0 +1,3 @@
+dag|prompt|question|label
+<T1>-><T2>-><T3>|I'm going to describe a causal graphical directed acyclic model. There are three variables: <T1>, <T2> and <T3>. <T1> causes <T2>. <T2> causes <T3>.  These are all the causal relationships in the graph|In this causal graphical model, is there a path going from <T1> to <T3>?|yes
+<T1>-><T2>-><T3>|I'm going to describe a causal graphical directed acyclic model. There are three variables: <T1>, <T2> and <T3>. <T1> causes <T2>. <T2> causes <T3>.  These are all the causal relationships in the graph|In this causal graphical model, is there a path going from <T3> to <T1>?|no

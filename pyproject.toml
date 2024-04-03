@@ -1,0 +1,15 @@
+[project]
+name = "retrieval-bias"
+version = "0.0.1"
+authors = [
+  { name="Tejas Kasetty", email="tejas.kasetty@mila.quebec" },
+]
+description = "A package to generate prompts and query from various LLMs"
+readme = "README.md"
+requires-python = ">=3.8"
+classifiers = [
+    "Programming Language :: Python :: 3"
+]
+
+[project.urls]
+Homepage = "https://github.com/tejaskasetty/retrieval-bias"
